@@ -1,0 +1,11 @@
+datasets>=2.0
+transformers>=4.30
+torch>=1.13
+
+tqdm>=4.64
+matplotlib>=3.5
+Pillow>=9.0
+
+cadquery>=2.2
+scikit-learn>=1.1       # pour métriques ou préprocessing éventuel
+
